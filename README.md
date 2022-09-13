@@ -32,7 +32,7 @@
 
 <br><br>
 
-## Contact
+## Contato
 
 <p align="left" style="background:blue">
 <a href="https://twitter.com/FhugoMP" target="_blank">

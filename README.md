@@ -25,8 +25,8 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=fhugomendes&show_icons=true&theme=tokyonight" alt="hugomendes's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomendes&layout=compact&theme=tokyonight" alt="hugomendes's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=fhugomendes&show_icons=true&theme=tokyonight" alt="hugomendes's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomendes&layout=compact&theme=tokyonight" alt="hugomendes's most languages"/>
 </p>
 
 

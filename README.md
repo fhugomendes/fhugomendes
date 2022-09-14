@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/fhugomendes/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Hugo Mendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://contatofhugomendes@gmail.com" target="_blank">
+<a href="mailto:contatofhugomendes@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/FhugoMP" target="_blank">

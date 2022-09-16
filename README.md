@@ -1,12 +1,17 @@
 <img align="right" height="475em" src="https://raw.githubusercontent.com/gist/fhugomendes/5f813268b7d064215e7a8989a43f04fb/raw/816cdcc46aabf752945c0f2f013b6b1c7d369699/github-card.svg"/>
 <h1 align="left">✌ <strong>Olá, eu sou o Hugo Mendes</strong></h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhugomendes&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Atualmente estudando pra me tornar um desenvolvedor Full-Stack
 
 - 🏠 Fortaleza/CE
+<br>
 
-<br><br>
+----
+
+<br>
+
 ## 🛠 &nbsp; Estudando
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,17 +27,26 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-<br><br>
+<br>
+
+----
+
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=fhugomendes&show_icons=true&theme=tokyonight" alt="hugomendes's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomendes&layout=compact&theme=tokyonight" alt="hugomendes's most languages"/>
-</p>
+<br>
+<table align='center'>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=fhugomendes&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=false&count_private=true" alt="hugomendes's stats" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomendes&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" alt="hugomendes's most languages"/>
+      </td>
+    </tr>
+</table>
 
+<br>
 
-<br><br>
-
-## Contato
+## 📱 Contato
 
 <p align="left" style="background:blue">
 <a href="https://www.linkedin.com/in/fhugomendes/" target="_blank">
